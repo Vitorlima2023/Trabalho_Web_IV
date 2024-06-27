@@ -1,0 +1,107 @@
+body.dark-mode {
+    background-color: #121212;
+    color: #e0e0e0;
+}
+
+.navbar.dark-mode {
+    background-color: #333333;
+    color: #e0e0e0;
+}
+
+.navbar.dark-mode .nav-link {
+    color: #e0e0e0;
+}
+
+.navbar.dark-mode .nav-link.active {
+    color: #ffffff;
+}
+
+.navbar.dark-mode .dropdown-menu {
+    background-color: #333333;
+    color: #e0e0e0;
+}
+
+.navbar.dark-mode .dropdown-item {
+    color: #e0e0e0;
+}
+
+.navbar.dark-mode .dropdown-item:hover {
+    background-color: #444444;
+}
+
+.container.dark-mode {
+    background-color: #1e1e1e;
+}
+
+.form-control.dark-mode {
+    background-color: #333333;
+    color: #e0e0e0;
+    border-color: #444444;
+}
+
+.btn.dark-mode {
+    background-color: #555555;
+    color: #e0e0e0;
+    border-color: #666666;
+}
+
+.btn.dark-mode:hover {
+    background-color: #666666;
+}
+
+#postContainer.dark-mode {
+    background-color: #1e1e1e;
+    color: #e0e0e0;
+    border: 1px solid #444444;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.post.dark-mode {
+    background-color: #333333;
+    color: #e0e0e0;
+    border: 1px solid #444444;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+
+
+.dark-mode {
+    background-color: #121212;
+    color: #cccccc;
+}
+.dark-mode .navbar,
+.dark-mode .dropdown-menu,
+.dark-mode .form-control,
+.dark-mode .btn {
+    background-color: #1f1f1f;
+    color: #cccccc;
+    border-color: #444;
+}
+.dark-mode .navbar-brand img {
+    filter: invert(1);
+}
+.dark-mode .navbar-nav .nav-link {
+    color: #cccccc;
+}
+.dark-mode .navbar-nav .nav-link:hover {
+    color: #ffffff;
+}
+.dark-mode .dropdown-item {
+    color: #cccccc;
+}
+.dark-mode .dropdown-item:hover {
+    background-color: #333333;
+}
+.dark-mode hr {
+    border-color: #444;
+}
+.dark-mode .form-control::placeholder {
+    color: #aaaaaa;
+}
+#LOGO{
+    color: rgb(126, 3, 3);
+}
